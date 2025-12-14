@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ペンタトニック(ワンダーランズ×ショウタイム ver.)",
+  "base_artist": "ワンダーランズ×ショウタイム",
+  "createdAt": "2025-12-14T08:33:29.383510Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ペンタトニック(ワンダーランズ×ショウタイム ver.)",
+      "artist": "ワンダーランズ×ショウタイム",
+      "has_synced": false,
+      "path": "select/pl_01_ペンタトニック(ワンダーランズ×ショウタイム_ver.)_ワンダーランズ×ショウタイム.txt"
+    }
+  ]
+}
